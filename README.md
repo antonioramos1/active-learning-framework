@@ -2,6 +2,7 @@
 
 This repository contains an active learning framework implementation with some common active learning sampling algorithms, and two demo notebooks running the framework on different datasets.
 
-![active-learning-overview](/imgs/active-learning-overview.JPG)
 
-![demo-active-learning](/imgs/active-learning-breast-cancer-results.JPG)
+<img src="https://github.com/antonioramos1/active-learning-framework/blob/main/imgs/active-learning-overview.JPG" width="400" height="300" />
+
+<img src="https://github.com/antonioramos1/active-learning-framework/blob/main/imgs/active-learning-breast-cancer-results.JPG" width="400" height="300" />
